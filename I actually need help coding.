@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>How Memes Affect the Mind</h1>
+
+<p> Memes affect how we think. This is out creativity. Without memes, our creativity, as you can see is off. Without memes, however, it is on. </p>
+
+<p>This is your idea light with and without mems</p>
+
+<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'"> Memes </button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'"> No Memes </button>
+
+<p> ( ͡° ͜ʖ ͡°) </p>
+
+</body>
+</html>
